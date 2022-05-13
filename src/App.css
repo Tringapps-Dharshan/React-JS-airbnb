@@ -1,0 +1,55 @@
+.heading-image {
+  padding: 50px;
+  width: 50%;
+  align-self: center;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  line-height: 0;
+}
+
+.nav-bar {
+  padding: 5px 50px;
+  box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+}
+
+.nav-content {
+  color: tomato;
+  font-family: 'Poppins', sans-serif;
+}
+
+.header-content,
+.hero-desc {
+  padding: 10px 50px;
+}
+
+.star {
+  content: '\2B50'
+}
+
+.rating-star {
+  width: 15px;
+  height: 15px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.badge {
+  background-color: tomato;
+  color: white;
+  padding: 3px;
+  border-radius: 3px;
+}
+
+.card-content {
+  padding: 5px 3px;
+  margin: 10px;
+}
+
+.grid-content {
+  margin: 20px 80px;
+}
